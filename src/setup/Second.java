@@ -13,5 +13,9 @@ public class Second {
     public  void m(String s){
         System.out.println("third metod");
 
+        // some changes
+
+        //some changes again
+
     }
 }
